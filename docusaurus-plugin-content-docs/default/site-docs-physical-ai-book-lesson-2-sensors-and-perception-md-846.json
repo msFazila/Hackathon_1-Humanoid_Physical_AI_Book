@@ -1,0 +1,24 @@
+{
+  "id": "physical-ai-book/lesson2-sensors-and-perception",
+  "title": "Lesson 2: Sensors and Perception",
+  "description": "",
+  "source": "@site/docs/physical-ai-book/lesson2-sensors-and-perception.md",
+  "sourceDirName": "physical-ai-book",
+  "slug": "/physical-ai-book/lesson2-sensors-and-perception",
+  "permalink": "/docs/physical-ai-book/lesson2-sensors-and-perception",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai-book/lesson2-sensors-and-perception.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lesson 1: From Bits to Atoms",
+    "permalink": "/docs/physical-ai-book/lesson1-bits-to-atoms"
+  },
+  "next": {
+    "title": "Lesson 3: Actuators and Action",
+    "permalink": "/docs/physical-ai-book/lesson3-actuators-and-action"
+  }
+}

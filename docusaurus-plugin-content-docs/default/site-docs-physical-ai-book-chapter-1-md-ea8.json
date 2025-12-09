@@ -1,0 +1,24 @@
+{
+  "id": "physical-ai-book/chapter1",
+  "title": "Chapter 1: What is Physical AI?",
+  "description": "Introduction to Physical AI",
+  "source": "@site/docs/physical-ai-book/chapter1.md",
+  "sourceDirName": "physical-ai-book",
+  "slug": "/physical-ai-book/chapter1",
+  "permalink": "/docs/physical-ai-book/chapter1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai-book/chapter1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  },
+  "next": {
+    "title": "Lesson 1: From Bits to Atoms",
+    "permalink": "/docs/physical-ai-book/lesson1-bits-to-atoms"
+  }
+}
